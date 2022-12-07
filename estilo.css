@@ -1,0 +1,11 @@
+#contenido{
+    width: 200px;
+    background: aliceblue;
+    font: 40px arial;
+    margin: auto;
+    margin-top: 300px;
+    border: 4px solid blue;
+    padding: 20px;
+    box-shadow: 20px 20px 20px;
+
+}
